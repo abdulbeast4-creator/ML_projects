@@ -41,3 +41,7 @@ python main_window.py
 
 - Regression mode (regressors are defined but not wired into the UI yet)
 - Data preprocessing (missing values, categorical encoding)
+
+## Authors
+
+Built jointly by [Abdul Rashid](https://github.com/abdulbeast4-creator) and [Santhosh](https://github.com/Santhosh-cobbler).
